@@ -1,0 +1,45 @@
+{
+    "Language": "JAVA",
+    "Name": "default_java",
+    "Author": "eight-pigs",
+    "Date": "2016-06-25",
+    "Intro":"系统默认的java语法高亮",
+    "Keywords": [
+        {
+            "Name": "public",
+            "Color": "#F9256F",
+            "Size": 12 ,
+            "FontFamily": "Consolas"
+        },
+        {
+            "Name": "static",
+            "Color": "#F9256F",
+            "Size": 12 ,
+            "FontFamily": "Consolas"
+        },
+        {
+            "Name": "new",
+            "Color": "#F9256F",
+            "Size": 12 ,
+            "FontFamily": "Consolas"
+        },
+        {
+            "Name": "extends",
+            "Color": "#F9256F",
+            "Size": 12 ,
+            "FontFamily": "Consolas"
+        },
+        {
+            "Name": "class",
+            "Color": "#F9256F",
+            "Size": 12 ,
+            "FontFamily": "Consolas"
+        },
+        {
+            "Name": "void",
+            "Color": "#66D9EF",
+            "Size": 12 ,
+            "FontFamily": "Consolas"
+        }
+    ]
+}

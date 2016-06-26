@@ -1,0 +1,4 @@
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\LanguagePlugin\bin\Debug\LanguagePlugin.dll
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\LanguagePlugin\bin\Debug\LanguagePlugin.pdb
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\LanguagePlugin\obj\Debug\LanguagePlugin.dll
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\LanguagePlugin\obj\Debug\LanguagePlugin.pdb

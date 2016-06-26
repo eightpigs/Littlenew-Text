@@ -1,0 +1,20 @@
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\bin\Debug\Littlenew Text.exe.config
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\bin\Debug\Littlenew Text.exe
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\bin\Debug\Littlenew Text.pdb
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\MainWindow.g.cs
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\App.g.cs
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\Littlenew Text_MarkupCompile.cache
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\Littlenew Text_MarkupCompile.lref
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\MainWindow.baml
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\Littlenew Text.g.resources
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\Littlenew_Text.Properties.Resources.resources
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\Littlenew Text.csproj.GenerateResource.Cache
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\Littlenew Text.exe
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\Littlenew Text.pdb
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\bin\Debug\ScintillaNET.dll
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\bin\Debug\ScintillaNET.xml
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\obj\Debug\Littlenew Text.csprojResolveAssemblyReference.cache
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\bin\Debug\Newtonsoft.Json.dll
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\bin\Debug\Newtonsoft.Json.xml
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\bin\Debug\LanguagePlugin.dll
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Littlenew Text\bin\Debug\LanguagePlugin.pdb

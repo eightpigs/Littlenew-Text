@@ -1,0 +1,7 @@
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Language.JAVA\bin\Debug\Language.JAVA.dll
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Language.JAVA\bin\Debug\Language.JAVA.pdb
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Language.JAVA\bin\Debug\LanguagePlugin.dll
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Language.JAVA\bin\Debug\LanguagePlugin.pdb
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Language.JAVA\obj\Debug\Language.JAVA.csprojResolveAssemblyReference.cache
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Language.JAVA\obj\Debug\Language.JAVA.dll
+C:\workspace\dotnet\Littlenew Text\Littlenew Text\Language.JAVA\obj\Debug\Language.JAVA.pdb
