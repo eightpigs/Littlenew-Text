@@ -14,3 +14,7 @@ JAVA语言插件项目.暂时未使用
 
 ### Littlenew Text
 主程序
+
+---
+
+![image](https://github.com/joylyl/Littlenew-Text/raw/master/Screenshots/Littlenew Text_01.png)
