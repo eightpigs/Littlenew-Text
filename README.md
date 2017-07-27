@@ -23,4 +23,4 @@ JAVA语言插件项目.暂时未使用
 
 ---
 
-![image](https://github.com/joylyl/Littlenew-Text/raw/master/Screenshots/Littlenew Text_01.png)
+![main](https://github.com/eightpigs/Littlenew-Text/blob/master/Screenshots/Littlenew%20Text_01.png?raw=true)
